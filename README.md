@@ -1,5 +1,8 @@
 # AD Hacking Methodology
-*Notes on AD pentest*
+
+![adh](https://github.com/user-attachments/assets/80e4af10-5b2b-4179-b139-f8fd7dc51373)
+
+*Notes on AD Pentest*
 
 # FASE 1 - RECONNAISSANCE / ENUMERATION
 
